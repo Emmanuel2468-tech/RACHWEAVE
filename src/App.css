@@ -1,0 +1,16 @@
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+::selection {
+  background: #e8d5c4;
+  color: #27211f;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #c49a63;
+  outline-offset: 4px;
+}
