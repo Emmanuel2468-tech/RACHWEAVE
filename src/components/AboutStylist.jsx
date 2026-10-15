@@ -9,7 +9,7 @@ export default function AboutStylist() {
       <div className="mx-auto grid max-w-7xl items-center gap-10 md:grid-cols-2 md:gap-16">
         <div className="overflow-hidden rounded-2xl">
           <img
-            src="/stylist-image.jpeg"
+            src="/stylist-image2.jpeg"
             alt="Beauty portrait representing the stylist"
             loading="lazy"
             className="h-[380px] w-full object-cover sm:h-[480px]"
